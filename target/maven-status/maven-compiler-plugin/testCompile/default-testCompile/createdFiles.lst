@@ -1,6 +1,0 @@
-utils/HooksImplementation.class
-utils/ScreenshotUtil.class
-pages/BasePage.class
-LoginStepImplementation.class
-pages/LoginPage.class
-utils/DriverFactory.class
